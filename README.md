@@ -1,4 +1,4 @@
-# Electronic-Website
+# Innovize
 Innovize is an application developed using Reactjs, Nodejs, Expressjs and MongoDB and will be hosted on Heroku. This electronic shopping website is created in order to automate 
 and facilitate the whole process of shopping electronic goods online. It has full featured shopping cart with PayPal and credit card integrations and ensures efficiency while 
 shopping online.
