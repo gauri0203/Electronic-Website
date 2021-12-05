@@ -8,7 +8,7 @@ To restrict further spread of the virus, mass events or gatherings have been can
 market growth and people at different levels. The present crisis due to Covid-19 resulted in the complete dependence on electronic devices.It has accelerated the shift towards 
 a more digital world and has changed the way consumers use e-commerce and digital solutions.This has thus resulted in a society where everyone’s life revolves solely around 
 electronic devices. Hence, it becomes important to have an efficient source of electronic shopping website.
-#Tech Stack
+# Tech Stack
 * Reactjs
 * Nodejs
 * MongoDB
